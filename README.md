@@ -13,7 +13,7 @@ There are two stepper motors. One drives the horizontal motion of a magnet throu
 Laser cut the files (in final_to_cut.dwg) into 3mm acrylic, then glue together, ensuring all joins are at 90 degrees while they're glued. Along with the laser cut parts, you will need the following items:
 
 - 2 NEMA 17 Stepper Motors
-- 1 Sanguinololu board, or arduino compatible board with 2 stepper drivers
+- 1 Sanguinololu board, or Arduino compatible board with 2 stepper drivers
 - 1 Potentiometer
 - 1 micro switch to act as end-stop
 - 1 neodynium magnet, 3mm x 10mm
